@@ -616,3 +616,8 @@ body:not(.user-is-tabbing) a:focus {
     height: 600px;
     display:none;
 }
+.mySlides2 {
+    width: 1000px;
+    height: 600px;
+    display: none;
+}
