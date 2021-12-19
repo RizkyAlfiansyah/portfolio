@@ -505,6 +505,10 @@ body:not(.user-is-tabbing) a:focus {
     }
 }
 
+.work__image{
+    width: 1000px;
+    height: 600px;
+}
 /* --------------------------------------- */
 /* ----- Clients ----- */
 /* --------------------------------------- */
@@ -615,9 +619,4 @@ body:not(.user-is-tabbing) a:focus {
     width: 1000px;
     height: 600px;
     display:none;
-}
-.mySlides2 {
-    width: 1000px;
-    height: 600px;
-    display: none;
 }
